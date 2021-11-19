@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "default.sender",
+    "type": "java.lang.String",
+    "description": "A description for 'default.sender'"
+  },
+  {
+    "name": "default.recipient",
+    "type": "java.lang.String",
+    "description": "A description for 'default.recipient'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "default.sender",
+    "type": "java.lang.String",
+    "description": "A description for 'default.sender'"
+  }
+]}
